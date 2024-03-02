@@ -18,7 +18,8 @@ This project automates Google searches based on keywords provided in an Excel fi
 - ChromeDriver
 
 ## Contributors
-- [Your Name]
+- Md Rabiul Islam Shaon
+- Email: mdrabiulislamshaonn@gmail.com
 
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
